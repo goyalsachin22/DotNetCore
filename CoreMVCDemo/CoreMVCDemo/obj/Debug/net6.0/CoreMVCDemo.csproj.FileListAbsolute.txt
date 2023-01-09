@@ -1,0 +1,62 @@
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.csproj.AssemblyReference.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.AssemblyInfoInputs.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.AssemblyInfo.cs
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.csproj.CoreCompileInputs.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.RazorAssemblyInfo.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.RazorAssemblyInfo.cs
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.staticwebassets.runtime.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.exe
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.deps.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.runtimeconfig.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.dll
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.pdb
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVCDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVCDemo.props
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVCDemo.props
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVCDemo.props
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\bundle\CoreMVCDemo.styles.css
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVCDemo.bundle.scp.css
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.dll
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\refint\CoreMVCDemo.dll
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.pdb
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.genruntimeconfig.cache
+C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\ref\CoreMVCDemo.dll
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.Development.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.staticwebassets.runtime.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.exe
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.deps.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.runtimeconfig.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.dll
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.pdb
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.csproj.AssemblyReference.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.AssemblyInfoInputs.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.AssemblyInfo.cs
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.csproj.CoreCompileInputs.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.RazorAssemblyInfo.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.RazorAssemblyInfo.cs
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVCDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVCDemo.props
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVCDemo.props
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVCDemo.props
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\bundle\CoreMVCDemo.styles.css
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVCDemo.bundle.scp.css
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.dll
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\refint\CoreMVCDemo.dll
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.pdb
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.genruntimeconfig.cache
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\ref\CoreMVCDemo.dll
