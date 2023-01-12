@@ -5,19 +5,21 @@
     ViewBag.Title = "Employee Details Page";
 }
 
-    <div> 
-        ID: @Model.Id
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+        <div class="card">
+            <div class="card-header">
+                <h1>@Model.Name</h1>
+            </div>
+
+            <div class="card-body text-center">
+                <img class="card-img-top" src="~/images/noimage.png" />
+                <h4>Employee ID: @Model.Id</h4>
+                <h4>Department: @Model.Department</h4>
+            </div>
+            <div class="card-footer text-center">
+                <a asp-controller="Employee" asp-action="index" class="btn btn-primary">Back</a>
+            </div>
+        </div>
     </div>
-    <div>
-        Name: @Model.Name
-    </div>
-
-    <div>
-        Department: @Model.Department
-    </div>
-
-
-    @section Scripts{
-    <script src="~/js/customscript.js"></script>
-    }
-
+</div>

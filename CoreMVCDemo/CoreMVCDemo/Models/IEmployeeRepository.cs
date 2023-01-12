@@ -7,6 +7,6 @@
         IEnumerable<Employee> GetAllEmployees();
 
         void saveEmployee(Employee employee);
-
+        Employee Add(Employee employee);
     }
 }
