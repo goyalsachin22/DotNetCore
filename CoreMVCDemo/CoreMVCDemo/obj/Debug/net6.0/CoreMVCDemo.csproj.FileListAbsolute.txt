@@ -31,6 +31,7 @@ C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDe
 C:\Users\I503883\source\repos\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\ref\CoreMVCDemo.dll
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.Development.json
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\appsettings.json
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\libman.json
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.staticwebassets.runtime.json
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.exe
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\CoreMVCDemo.deps.json
@@ -60,4 +61,3 @@ D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\refint\CoreMVCD
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.pdb
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.genruntimeconfig.cache
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\ref\CoreMVCDemo.dll
-D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\libman.json
