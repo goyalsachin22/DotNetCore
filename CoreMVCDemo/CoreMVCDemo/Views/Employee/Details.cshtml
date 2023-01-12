@@ -1,0 +1,23 @@
+﻿@model Employee
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Employee Details Page";
+}
+
+    <div> 
+        ID: @Model.Id
+    </div>
+    <div>
+        Name: @Model.Name
+    </div>
+
+    <div>
+        Department: @Model.Department
+    </div>
+
+
+    @section Scripts{
+    <script src="~/js/customscript.js"></script>
+    }
+

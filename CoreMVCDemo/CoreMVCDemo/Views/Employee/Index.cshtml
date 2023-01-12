@@ -1,8 +1,24 @@
-﻿@{
-    ViewData["Title"] = "Employee Page";
+﻿@model IEnumerable<Employee>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Tabular View of Employee";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome to Employees data page</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<div class="card-group">
+    @foreach (var emp in Model)
+    {
+        <div class="card m-3">
+            <div class="card-header">
+                <h3>@emp.Name</h3>
+            </div>
+            <img class="card-img-top" src="~/images/noimage.png" />
+            <div class="card-footer">
+                <a href="#" class="btn btn-primary">view</a>
+                <a href="#" class="btn btn-primary">Edit</a>
+                <a href="#" class="btn btn-primary">Delete</a>
+            </div>
+        </div>
+    }
 </div>

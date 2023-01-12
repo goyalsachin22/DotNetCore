@@ -11,15 +11,17 @@ namespace CoreMVCDemo.Controllers
         {
             this._employeeRepository = employeeRepository;
         }
-        public IActionResult Details(int id)
+        public ViewResult Index()
         {
-            Employee model = _employeeRepository.GetEmployee(id);
+            IEnumerable<Employee> model = _employeeRepository.GetAllEmployees();
             return View(model);
         }
 
-        public Employee Index()
+        public ViewResult Details(int id)
         {
-            return _employeeRepository.GetEmployee(1);
+            Employee model = _employeeRepository.GetEmployee(id);
+            ViewData["Title"] = "Employee Details View";
+            return View(model);
         }
     }
 }

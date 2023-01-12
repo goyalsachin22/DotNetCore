@@ -60,3 +60,4 @@ D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\refint\CoreMVCD
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.pdb
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\CoreMVCDemo.genruntimeconfig.cache
 D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\obj\Debug\net6.0\ref\CoreMVCDemo.dll
+D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo\bin\Debug\net6.0\libman.json
