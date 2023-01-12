@@ -31,10 +31,16 @@ namespace CoreMVCDemo.Controllers
         }
 
         [HttpPost]
-        public RedirectToActionResult Create(Employee employee)
+        public IActionResult Create(Employee employee)
         {
-           var newEmployee = _employeeRepository.Add(employee);
-            return RedirectToAction("details", new {id = newEmployee.Id});
+            if(ModelState.IsValid)
+            {
+                Employee newEmployee = _employeeRepository.Add(employee);
+                return RedirectToAction("details", new { id = newEmployee.Id }); 
+            }
+
+            return View();
+          
         }
     }
 }
