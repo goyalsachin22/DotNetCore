@@ -40,6 +40,7 @@ if (!app.Environment.IsDevelopment())
 else if(app.Environment.IsDevelopment())
 {
     //for non success code redirect to below url
+    app.UseExceptionHandler("/Error");
     app.UseStatusCodePagesWithReExecute("/Error/{0}");
 }
 

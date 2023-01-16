@@ -23,6 +23,7 @@ namespace CoreMVCDemo.Controllers
 
         public ViewResult Details(int? id)
         {
+            throw new Exception("error in details view");
             Employee employee = _employeeRepository.GetEmployee(id.Value);
 
             if (employee == null)
