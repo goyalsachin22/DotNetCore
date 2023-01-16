@@ -5,19 +5,19 @@
     ViewBag.Title = "Tabular View of Employee";
 }
 
-
 <div class="card-group">
     @foreach (var emp in Model)
     {
+        var photoPath = "~/images/" + (emp.PhotoPath ?? "noimage.png");
         <div class="card m-3">
             <div class="card-header">
                 <h3>@emp.Name</h3>
             </div>
-            <img class="card-img-top" src="~/images/noimage.png" />
+            <img class="card-img-top" src="@photoPath" asp-append-version="true" />
             <div class="card-footer">
                 <a asp-controller="Employee" asp-action="Details" asp-route-id="@emp.Id" class="btn btn-primary">View</a>
                 @*<a href="~/Employee/Details/@emp.Id">view</a>*@
-                <a asp-controller="Employee" asp-action="Edit" class="btn btn-primary">Edit</a>
+                <a asp-controller="Employee" asp-action="Edit" asp-route-id="@emp.Id" class="btn btn-primary">Edit</a>
                 <a asp-controller="Employee" asp-action="Delete" class="btn btn-primary">Delete</a>
             </div>
         </div>

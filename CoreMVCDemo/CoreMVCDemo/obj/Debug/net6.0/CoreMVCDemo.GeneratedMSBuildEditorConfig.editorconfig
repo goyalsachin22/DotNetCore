@@ -16,12 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\.NET Core\DotNetCore\CoreMVCDemo\CoreMVCDemo
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Employee/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcY3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Employee/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Employee/EmployeeNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRW1wbG95ZWVOb3RGb3VuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Employee/Index.cshtml]
@@ -38,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/.NET Core/DotNetCore/CoreMVCDemo/CoreMVCDemo/Views/Shared/_ValidationScriptsPartial.cshtml]

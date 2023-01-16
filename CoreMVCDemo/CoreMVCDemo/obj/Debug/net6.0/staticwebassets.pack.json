@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\noimage.png",
-      "PackagePath": "staticwebassets\\images\\noimage.png"
+      "Id": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\0c1449be-24f9-41e8-b4bd-d5d08f5033e0_rohan.jpg",
+      "PackagePath": "staticwebassets\\images\\0c1449be-24f9-41e8-b4bd-d5d08f5033e0_rohan.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\2d8d4af0-38a6-4ecb-a7f6-3f55ad58fd4b_rohan.jpg",
+      "PackagePath": "staticwebassets\\images\\2d8d4af0-38a6-4ecb-a7f6-3f55ad58fd4b_rohan.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\323bf9d2-cb5a-4930-b847-70c0011a88d2_noimage.png",
+      "PackagePath": "staticwebassets\\images\\323bf9d2-cb5a-4930-b847-70c0011a88d2_noimage.png"
     },
     {
       "Id": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\js\\CustomScript.js",

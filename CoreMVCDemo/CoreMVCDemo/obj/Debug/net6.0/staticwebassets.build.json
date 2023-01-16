@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MHrkAhTuPo5daPPu30C5Tw3+ybKiLtoYfAGhQUIMSSc=",
+  "Hash": "OmSxKFdPWhZbqjTE7G1abGKNgpGfZZ3FLVr+lOARpEI=",
   "Source": "CoreMVCDemo",
   "BasePath": "_content/CoreMVCDemo",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\noimage.png",
+      "Identity": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\0c1449be-24f9-41e8-b4bd-d5d08f5033e0_rohan.jpg",
       "SourceId": "CoreMVCDemo",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\",
       "BasePath": "_content/CoreMVCDemo",
-      "RelativePath": "images/noimage.png",
+      "RelativePath": "images/0c1449be-24f9-41e8-b4bd-d5d08f5033e0_rohan.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\noimage.png"
+      "OriginalItemSpec": "wwwroot\\images\\0c1449be-24f9-41e8-b4bd-d5d08f5033e0_rohan.jpg"
+    },
+    {
+      "Identity": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\2d8d4af0-38a6-4ecb-a7f6-3f55ad58fd4b_rohan.jpg",
+      "SourceId": "CoreMVCDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\",
+      "BasePath": "_content/CoreMVCDemo",
+      "RelativePath": "images/2d8d4af0-38a6-4ecb-a7f6-3f55ad58fd4b_rohan.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2d8d4af0-38a6-4ecb-a7f6-3f55ad58fd4b_rohan.jpg"
+    },
+    {
+      "Identity": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\images\\323bf9d2-cb5a-4930-b847-70c0011a88d2_noimage.png",
+      "SourceId": "CoreMVCDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\",
+      "BasePath": "_content/CoreMVCDemo",
+      "RelativePath": "images/323bf9d2-cb5a-4930-b847-70c0011a88d2_noimage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\323bf9d2-cb5a-4930-b847-70c0011a88d2_noimage.png"
     },
     {
       "Identity": "D:\\.NET Core\\DotNetCore\\CoreMVCDemo\\CoreMVCDemo\\wwwroot\\js\\CustomScript.js",

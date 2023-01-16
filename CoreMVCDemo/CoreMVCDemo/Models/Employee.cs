@@ -14,5 +14,8 @@ namespace CoreMVCDemo.Models
 
         [Required]
         public Dept?  Department { get; set; }
+
+        public String PhotoPath { get; set; }
+
     }
 }
